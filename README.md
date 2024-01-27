@@ -1,4 +1,4 @@
-# prime_spirals 
+# polar_primes
 
 An interesting way to view prime numbers using polar coordinates!
 
